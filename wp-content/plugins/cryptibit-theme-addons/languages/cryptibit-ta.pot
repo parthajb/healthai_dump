@@ -1,0 +1,1217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CryptiBIT Theme Addons Plugin\n"
+"POT-Creation-Date: 2019-07-28 20:08+0200\n"
+"PO-Revision-Date: 2016-10-19 17:22+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: MagniumThemes <support@magniumthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e;_nx;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cryptibit-theme-addons.php:92 ../cryptibit-theme-addons.php:93
+msgid "Clients reviews"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:95 ../cryptibit-theme-addons.php:98
+msgid "Add review"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:96 ../cryptibit-theme-addons.php:119
+#: ../cryptibit-theme-addons.php:141
+msgid "Not found"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:97
+msgid "No clients reviews found in trash"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:99
+msgid "All client reviews"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:115 ../cryptibit-theme-addons.php:116
+msgid "Team"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:118 ../cryptibit-theme-addons.php:121
+msgid "Add member"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:120
+msgid "No members found in trash"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:122
+msgid "All members"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:140 ../cryptibit-theme-addons.php:143
+msgid "Add New item"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:142
+msgid "No Portfolio items found in trash"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:144
+msgid "All Portfolio items"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:195
+msgid "Client photo/logo"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:209
+msgid "Member photo"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:223
+msgid "Portfolio grid item image"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:236
+msgid "Portfolio item page details and settings"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:261
+msgid "Layout: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:266
+msgid "Normal image size, description at the right"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:270
+msgid "Full width image size, description at the bottom"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:275
+msgid "Short description: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:282
+msgid "Project url: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:289
+msgid "Client: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:299
+msgid "Hide portfolio details (Project url, Client, Category)"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:307
+msgid "Don't show 'Portfolio grid item image' on item page"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:316
+msgid "Disable slider for this item images (show images in column)"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:324
+msgid "Show item images or slider fullwidth (liquid)"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:332
+msgid "Use original images sizes for all item images (don't crop images)"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:341
+msgid "Disable social share counters and buttons on this item page"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:351 ../inc/theme-metaboxes.php:68
+#: ../inc/theme-metaboxes.php:266
+msgid ""
+"Show transparent header with light logo and white menus under page content. "
+"Use this if you have fullwidth image or slider at the page start (header "
+"will be displayed above your image)."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:359
+msgid "Hide breadcrumbs navigation"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:377
+msgid "Title position: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:379
+msgid "Page title"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:380
+msgid "Before description and details"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:381
+msgid "Disable title"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:386 ../inc/theme-metaboxes.php:103
+msgid "Page background color: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:412
+msgid "Sidebar position: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:414 ../inc/theme-metaboxes.php:97
+#: ../inc/theme-metaboxes.php:289
+msgid "Use theme control panel settings"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:415 ../inc/theme-metaboxes.php:98
+#: ../inc/theme-metaboxes.php:290
+msgid "Left"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:416 ../inc/theme-metaboxes.php:99
+#: ../inc/theme-metaboxes.php:291
+msgid "Right"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:417 ../inc/theme-metaboxes.php:100
+#: ../inc/theme-metaboxes.php:292
+msgid "Disable sidebar"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:423
+msgid "Sort order ID: "
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:588
+msgid "Portfolio images/photos"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:596
+msgid "Portfolio images<br>"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:597
+msgid ""
+"Use this field to add your images for portfolio item. Use SHIFT/CTRL "
+"keyboard buttons to select multiple images."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:616
+msgid "Client Review settings"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:624
+msgid "Reviewer title"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:625
+msgid "Reviewer title or description"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:643
+msgid "Team member settings"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:651
+msgid "Member title/position"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:657
+msgid "Member page url (optional)"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:659
+msgid ""
+"You can create separate page for your team member. You can specify this page "
+"url here to add link to member block."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:664
+msgid "Facebook profile url"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:670
+msgid "Twitter profile url"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:676
+msgid "Linkedin profile url"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:682
+msgid "Google+ profile url"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Share with Facebook"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Tweet this"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Share with LinkedIn"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Pin this"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Share with StumbleUpon"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:734
+msgid "Share with VKontakte"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:883 ../cryptibit-theme-addons.php:903
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:913
+msgid ""
+"<strong>WARNING:</strong> Your theme purchase code blocked for illegal theme "
+"usage on multiple sites. Theme settings and features disabled on your site. "
+"You must <a href=\"https://magniumthemes.com/go/purchase-cryptibit/\" target="
+"\"_blank\">purchase valid theme license</a> and <a href=\""
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:961
+msgid ""
+"<strong>Visual Composer (CryptiBIT Visual Page Builder) plugin must be "
+"installed and activated for correct theme work. Please <a href=\""
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1011
+msgid "Please fill out purchase code field."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1015
+msgid "Registering theme..."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1034 ../cryptibit-theme-addons.php:1040
+msgid "Theme registered succesfully!"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1042
+msgid ""
+"Theme registered succesfully, but we see that theme purchase code was "
+"already activated before. Please note that by ThemeForest regular license "
+"rules you can use one theme license only on one WordPress installation with "
+"one language (you allowed to use theme another time only on test/development "
+"environments). If you are using theme on multiple sites or multilanguage "
+"website make sure you purchased separate regular license for every site and "
+"language, otherwise theme on your sites can be automatically blocked in next "
+"check."
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1047
+msgid ""
+"Purchase code is not valid. Your purchase code should look like this: "
+"36434418-e837-48c5-8737-f20d52b36a1f"
+msgstr ""
+
+#: ../cryptibit-theme-addons.php:1054
+msgid ""
+"<span class='error'>Oops! It looks like the your hosting blocks external "
+"connections to our server.<br/>Please click the button below to skip "
+"activation for 1 day and start using all theme features right now. <br/"
+">Please <a href='http://support.magniumthemes.com/' target='_blank'>contact "
+"our support team</a> to get theme activated manually.</span><br><a "
+"href='themes.php?page=ipanel_CRYPTIBIT_PANEL&act=registration_skip' "
+"class='button button-primary button-hero activate-theme-btn'>Start using "
+"theme</a>"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:42
+#: ../inc/oneclick-demo-import/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/parsers.php:67
+#: ../inc/oneclick-demo-import/importer/parsers.php:72
+#: ../inc/oneclick-demo-import/importer/parsers.php:262
+#: ../inc/oneclick-demo-import/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:398
+msgid "Import Again"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:402
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:708
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:766
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:839
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:861
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:884
+msgid "Widget already exists"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:933
+msgid "Imported"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:936
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/radium-importer.php:943
+msgid "No Title"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:142
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:151
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:202
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:206
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:215
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:143
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "All done."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:186
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:187
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:223
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:248
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:274
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:275
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:277
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:287
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:290
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:307
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:318
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:321
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:329
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:331
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:332
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:382
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:469
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:535
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:556
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:611
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:757
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:764
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:928
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:941
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:974
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:970
+msgid "Empty filename"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1000
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1006
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1060
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1066
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1073
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1078
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1084
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1183
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1197
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/importer/wordpress-importer.php:1198
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:187
+msgid "Import Revolution sliders ..."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:199
+msgid "Slider was not imported due to error."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:201
+msgid "Slider imported."
+msgstr ""
+
+#: ../inc/oneclick-demo-import/init.php:211
+msgid "Revolution slider plugin not installed."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:155
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:697
+msgid "Add top margin?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:162
+msgid "Add right margin?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:175
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:278
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:644
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:452
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:711
+msgid "Add icon?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:181
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:285
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:651
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:459
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:718
+msgid "Add icon separator line?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:209
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:315
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:164
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:681
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:218
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:489
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:748
+msgid "Icon library"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:211
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:317
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:144
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:166
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:683
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:220
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:50
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:491
+#: ../inc/shortcodes/visual-composer/mgt-process.php:170
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:750
+msgid "Font Awesome"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:212
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:318
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:145
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:167
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:684
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:221
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:51
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:492
+#: ../inc/shortcodes/visual-composer/mgt-process.php:171
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:751
+msgid "Open Iconic"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:213
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:319
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:146
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:168
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:685
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:222
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:52
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:493
+#: ../inc/shortcodes/visual-composer/mgt-process.php:172
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:752
+msgid "Typicons"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:214
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:320
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:147
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:169
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:686
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:223
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:53
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:494
+#: ../inc/shortcodes/visual-composer/mgt-process.php:173
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:753
+msgid "Entypo"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:215
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:321
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:148
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:170
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:687
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:224
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:54
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:495
+#: ../inc/shortcodes/visual-composer/mgt-process.php:174
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:754
+msgid "Linecons"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:216
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:322
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:149
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:171
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:688
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:225
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:55
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:496
+#: ../inc/shortcodes/visual-composer/mgt-process.php:175
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:755
+msgid "Mono Social"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:217
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:323
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:150
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:172
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:689
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:226
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:56
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:497
+#: ../inc/shortcodes/visual-composer/mgt-process.php:176
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:756
+msgid "Material"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:218
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:324
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:151
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:173
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:690
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:227
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:57
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:498
+#: ../inc/shortcodes/visual-composer/mgt-process.php:177
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:757
+msgid "Pe7 Stroke"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:226
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:332
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:159
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:181
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:698
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:235
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:65
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:506
+#: ../inc/shortcodes/visual-composer/mgt-process.php:181
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:765
+msgid "Select icon library."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:232
+#: ../inc/shortcodes/visual-composer/mgt-button.php:251
+#: ../inc/shortcodes/visual-composer/mgt-button.php:270
+#: ../inc/shortcodes/visual-composer/mgt-button.php:289
+#: ../inc/shortcodes/visual-composer/mgt-button.php:308
+#: ../inc/shortcodes/visual-composer/mgt-button.php:327
+#: ../inc/shortcodes/visual-composer/mgt-button.php:346
+#: ../inc/shortcodes/visual-composer/mgt-button.php:365
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:338
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:358
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:378
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:398
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:418
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:438
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:458
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:478
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:186
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:205
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:224
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:243
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:262
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:281
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:300
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:319
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:704
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:724
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:744
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:764
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:784
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:803
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:823
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:843
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:241
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:261
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:281
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:301
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:321
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:341
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:361
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:381
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:512
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:532
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:552
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:572
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:592
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:611
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:631
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:651
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:771
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:791
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:811
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:831
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:851
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:871
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:891
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:911
+msgid "Icon"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:247
+#: ../inc/shortcodes/visual-composer/mgt-button.php:266
+#: ../inc/shortcodes/visual-composer/mgt-button.php:285
+#: ../inc/shortcodes/visual-composer/mgt-button.php:304
+#: ../inc/shortcodes/visual-composer/mgt-button.php:323
+#: ../inc/shortcodes/visual-composer/mgt-button.php:342
+#: ../inc/shortcodes/visual-composer/mgt-button.php:361
+#: ../inc/shortcodes/visual-composer/mgt-button.php:380
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:353
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:373
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:393
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:413
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:433
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:453
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:473
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:493
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:179
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:198
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:217
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:236
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:255
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:274
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:293
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:312
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:201
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:220
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:239
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:258
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:277
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:296
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:315
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:334
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:719
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:739
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:759
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:779
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:818
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:838
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:858
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:256
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:276
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:296
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:316
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:336
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:356
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:376
+#: ../inc/shortcodes/visual-composer/mgt-icon-box.php:396
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:85
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:104
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:123
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:142
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:161
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:180
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:199
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:218
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:527
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:547
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:567
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:587
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:626
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:646
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:666
+#: ../inc/shortcodes/visual-composer/mgt-process.php:205
+#: ../inc/shortcodes/visual-composer/mgt-process.php:224
+#: ../inc/shortcodes/visual-composer/mgt-process.php:243
+#: ../inc/shortcodes/visual-composer/mgt-process.php:262
+#: ../inc/shortcodes/visual-composer/mgt-process.php:281
+#: ../inc/shortcodes/visual-composer/mgt-process.php:300
+#: ../inc/shortcodes/visual-composer/mgt-process.php:319
+#: ../inc/shortcodes/visual-composer/mgt-process.php:338
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:786
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:806
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:826
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:846
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:866
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:886
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:906
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:926
+msgid "Select icon from library."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:472
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:586
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:952
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:760
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1034
+msgid "Override this button styles?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:514
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:637
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:1003
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:811
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1085
+msgid "Add gradient to button background color?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:547
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:678
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:1044
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:852
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1126
+msgid "Add gradient to button hover background color?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-button.php:593
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:736
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:1102
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:910
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1184
+msgid "Enable button border?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-calltoaction-block.php:80
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:219
+msgid "Use video background?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-clients-reviews.php:30
+msgid "Add shadow effect?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-clients-reviews.php:40
+msgid "Add border around review box?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:137
+msgid "Add counter icon?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:142
+msgid "Counter icon library"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:164
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:183
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:202
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:221
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:240
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:259
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:278
+#: ../inc/shortcodes/visual-composer/mgt-counter.php:297
+msgid "Counter icon"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:83
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:406
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:245
+msgid "Add block border?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:145
+msgid "Add icon to flipbox front side?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:1238
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:1176
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1392
+msgid "Css"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-flipbox.php:1240
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:1178
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:1394
+msgid "Content Design options"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-header-block.php:246
+msgid "Add gradient to line color?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-ico-progress.php:108
+msgid "Custom progress bar colors?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-ico-rating.php:93
+msgid "Custom ICO rating block colors?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-ico-rating.php:151
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:446
+msgid "Add block shadow effect on hover?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-portfolio-grid.php:261
+msgid "Show project categories ajax filter?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:43
+msgid "Add subheader icon?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:48
+msgid "Subheader icon library"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:70
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:89
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:108
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:127
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:146
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:165
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:184
+#: ../inc/shortcodes/visual-composer/mgt-pricing-table.php:203
+msgid "Subheader icon"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-process.php:168
+msgid "Process icon library"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-process.php:190
+#: ../inc/shortcodes/visual-composer/mgt-process.php:209
+#: ../inc/shortcodes/visual-composer/mgt-process.php:228
+#: ../inc/shortcodes/visual-composer/mgt-process.php:247
+#: ../inc/shortcodes/visual-composer/mgt-process.php:266
+#: ../inc/shortcodes/visual-composer/mgt-process.php:285
+#: ../inc/shortcodes/visual-composer/mgt-process.php:304
+#: ../inc/shortcodes/visual-composer/mgt-process.php:323
+msgid "Process icon"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-process.php:393
+msgid "Add gradient to process border color?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-process.php:418
+msgid "Add mouse hover shadow effect?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:122
+msgid "Add background image?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:439
+msgid "Add block shadow effect?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:453
+msgid "Add mouse hover block moving effect?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:460
+msgid "Show block content only on mouse hover?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:475
+msgid "Add top image?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-promo-block.php:478
+msgid ""
+"Enable to show image at the top of your promo block (above promo block "
+"content)."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/mgt-team.php:55
+msgid "Add image shadow effect on hover?"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/vc-row-custom.php:50
+msgid "Add color gradient to row background?"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-ico-progress-wp.php:68
+msgid "reached in"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-ico-progress-wp.php:74
+msgid "raised"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-ico-progress-wp.php:81
+msgid "Softcap"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-ico-progress-wp.php:81
+msgid "Hardcap"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-portfolio-grid-wp.php:188
+msgid ""
+"You does not have projects to display for current MGT Portfolio Grid element "
+"settings."
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-post-list-wp.php:161
+msgid "Read more"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-signup-block-wp.php:53
+msgid "Input your email"
+msgstr ""
+
+#: ../inc/shortcodes/wp/mgt-team-wp.php:209
+msgid "More"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:18
+msgid "Page settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:54
+msgid "Page CSS class: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:62
+msgid "Stick page content to footer (disable page bottom margin)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:75
+msgid "Don't display this page title (only show page content)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:95
+msgid "Page sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:205
+msgid "Post settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:243
+msgid "Disable social share counters and buttons on this post."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:251
+msgid "Don't display this post title (only show page content)."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:258
+msgid "Don't display this post featured image on single post page."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:287
+msgid "Post sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:295
+msgid "Post background color: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:399
+msgid "Title Background settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:406
+msgid "Title Background Image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:407
+msgid ""
+"You can display fullwidth image background in your post/page header with "
+"post title. Use wide image here."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:420
+msgid "You can change post/page title background here."
+msgstr ""
+
+#: ../inc/theme-widgets.php:25
+msgid "Your site&#8217;s most recent Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:26
+msgid "CryptiBIT Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:141 ../inc/theme-widgets.php:231
+msgid "Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:144
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:148
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:151
+msgid "Display post featured image?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:164
+msgid "Show social follow icons set in theme admin panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:165
+msgid "CryptiBIT Social Icons"
+msgstr ""
+
+#: ../inc/theme-widgets.php:190
+msgid "Subscribe and follow"
+msgstr ""
