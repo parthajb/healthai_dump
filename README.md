@@ -3,9 +3,7 @@
 Step 1: Clone this repo
 
 ```sh
-npx create-docz-app docz-app-basic
-# or
-yarn create docz-app docz-app-basic
+git clone https://github.com/parthajb/healthai_dump.git
 ```
 
 Step 2: Update WP database with this SQL dump called `SQL_DUMP.sql`
